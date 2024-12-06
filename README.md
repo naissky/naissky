@@ -8,5 +8,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=naissky&show_icons=true&theme=radical)
-
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400">
