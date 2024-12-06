@@ -1,7 +1,7 @@
-# 👋 Hola, soy [Tu Nombre]
-- 🌱 Actualmente aprendiendo: React, TypeScript, y más.
-- 💼 Trabajo en: Desarrollo Web.
-- 📫 Contacto: [tu-email@example.com](mailto:tu-email@example.com).
+# 👋 Hola, soy [Naissky]
+- 🌱 Actualmente aprendiendo: Astro, React, TypeScript, y más.
+- 💼 Trabajo como Diseñador de Interfaces.
+- 📫 Contacto: [outdaywork@gmail.com](outdaywork@gmail.com).
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
